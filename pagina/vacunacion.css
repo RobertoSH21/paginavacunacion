@@ -1,0 +1,505 @@
+.negritas{
+
+    font-size: 21px;
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+.negritas2{
+
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 53px;
+    font-family: Verdana;
+    position: relative;
+    top: 205px;
+    left: 105px;
+}
+
+.titulo2{
+    font-weight: bold;
+    font-size: 35px;
+    font-family: Verdana;
+    position: relative;
+    top: 995px;
+    left: 95px;
+}
+
+.titulo3{
+    font-weight: bold;
+    font-size: 35px;
+    font-family: Verdana;
+    position: relative;
+    top: 1055px;
+    left: 593px;
+}
+
+.titulo4{
+    font-weight: bold;
+    font-size: 35px;
+    font-family: Verdana;
+    position: relative;
+    top: 1800px;
+    left: 95px;
+}
+
+.subtitulo{
+    font-weight: bold;
+    font-size: 19px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 1085px;
+    left: 125px;
+}
+
+.subtitulo2{
+    font-weight: bold;
+    font-size: 19px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 985px;
+    left: 390px;
+}
+
+.subtitulo3{
+    font-weight: bold;
+    font-size: 19px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 880px;
+    left: 645px;
+}
+
+.subtitulo4{
+    font-weight: bold;
+    font-size: 19px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 780px;
+    left: 915px;
+}
+
+.centrartri{
+    position: absolute;
+    top: 121px;
+    left: 53px;
+}
+
+.centrartri2{
+    position: absolute;
+    top: 394px;
+    left: 535px;
+}
+
+.centrartri3{
+    position: absolute;
+    top: 1790px;
+    left: 0px;
+}
+
+.centrartri4{
+    position: absolute;
+    top: 2645px;
+    left: 1143px;
+}
+
+.triangulo{
+    border-top: solid rgba(199, 223, 223, 0.253) 70px;
+    border-left: solid transparent 75px;
+    border-right: solid transparent 75px;
+    border-bottom: solid transparent 0px;
+}
+
+.triangulo2{
+    border-top: solid transparent 120px;
+    border-left: solid transparent 0px;
+    border-right: solid rgba(199, 223, 223, 0.253) 120px;
+    border-bottom: solid transparent 120px;
+}
+
+.triangulo3{
+    border-top: solid transparent 120px;
+    border-left: solid rgba(199, 223, 223, 0.253) 120px;
+    border-right: solid transparent 0px;
+    border-bottom: solid transparent 120px;
+}
+
+.triangulo4{
+    border-top: solid transparent 120px;
+    border-left: solid transparent 0px;
+    border-right: solid rgba(199, 223, 223, 0.253) 120px;
+    border-bottom: solid transparent 120px;
+}
+
+.centrarico{
+    position: absolute;
+    top: 490px;
+    left: 113px;
+}
+
+.centrarico2{
+    position: absolute;
+    top: 663px;
+    left: 110px;
+}
+
+.centrarico3{
+    position: absolute;
+    top: 763px;
+    left: 100px;
+}
+
+.centrarico4{
+    position: absolute;
+    top: 943px;
+    left: 105px;
+}
+
+.centrarico5{
+    position: absolute;
+    top: 1445px;
+    left: 125px;
+}
+
+.centrarico6{
+    position: absolute;
+    top: 2980px;
+    left: 115px;
+}
+
+p{
+    line-height: 28px;
+}
+
+.pa{
+    font-weight: bold;
+    font-size: 13px;
+    font-family: Century Gothic;
+    line-height: 40px;
+    
+}
+
+.pala{
+    font-weight: bold;
+    font-size: 17px;
+    font-family: Century Gothic;
+}
+
+.centrar2{
+    background: white;
+    height: 100px;
+    width: 455px;
+  
+}
+
+.centrar{
+    background: white;
+    height: 100px;
+    width: 350px;
+  
+}
+
+.centrar3{
+    background: white;
+    height: 100px;
+    width: 565px;
+  
+}
+
+.centrar4{
+    background: white;
+    height: 100px;
+    width: 515px;
+  
+}
+
+.centrar5{
+    background: white;
+    height: 100px;
+    width: 180px;
+}
+
+.centrar6{
+    background: white;
+    height: 100px;
+    width: 176px; 
+}
+
+.centrar7{
+    background: white;
+    height: 100px;
+    width: 160px; 
+}
+
+.centrar8{
+    background: white;
+    height: 100px;
+    width: 230px; 
+}
+
+.centrartext{
+    font-weight: 600;
+    font-size: 17px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 245px;
+    left: 110px;
+}
+
+.centrartext2{
+    font-weight: 600;
+    font-size: 17px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 960px;
+    left: 97px;
+}
+
+.centrartext3{
+    font-weight: 600;
+    font-size: 12px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 1100px;
+    left: 125px;
+}
+
+.centrartext4{
+    font-weight: 600;
+    font-size: 12px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 1020px;
+    left: 385px;
+}
+
+.centrartext5{
+    font-weight: 600;
+    font-size: 12px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 895px;
+    left: 645px;
+}
+
+.centrartext6{
+    font-weight: 600;
+    font-size: 12px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 810px;
+    left: 915px;
+}
+
+.centrartext7{
+    font-weight: 600;
+    font-size: 17px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 1075px;
+    left: 593px;
+}
+
+.centrartext8{
+    font-weight: 600;
+    font-size: 17px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 1800px;
+    left: 95px;
+}
+
+.t1{
+    position: absolute;
+    top: 25px;
+    left: 115px;
+}
+
+.t2{
+    position: absolute;
+    top: 55px;
+    left: 675px;
+}
+
+.t3{
+    position: absolute;
+    top: 55px;
+    left: 865px;
+}
+
+.t4{
+    position: absolute;
+    top: 55px;
+    left: 1065px;
+}
+
+.fondoimagen{
+    position: absolute;
+    top: 120px;
+    left: 653px;
+}
+
+.fondoimagen2{
+    position: absolute;
+    top: 2002px;
+    left: 0px;
+}
+
+.fondoimagen3{
+    position: absolute;
+    top: 2130px;
+    left: 620px;
+}
+
+.fondoimagen4{
+    position: absolute;
+    top: 2867px;
+    left: 673px;
+}
+
+.b1{
+    position: absolute;
+    top: 33px;
+    left: 525px;
+}
+
+.b2{
+    position: absolute;
+    top: 33px;
+    left: 655px;
+}
+
+.b3{
+    position: absolute;
+    top: 33px;
+    left: 783px;
+}
+
+.b4{
+    position: absolute;
+    top: 33px;
+    left: 875px;
+}
+
+.b5{
+    position: absolute;
+    top: 28px;
+    left: 1035px;
+}
+
+.contenedor{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.fondosec{
+    width: 610px;
+    height: 120px;
+    inset: 0px;
+    left: 653px;
+    position: absolute;
+    background: rgba(193, 255, 234, 0.4);
+}
+.fondosec2{
+    width: 150px;
+    height: 50px;
+    left: 1010px;
+    top: 33px;
+    border-radius: 5% 5% 5% 5%;
+    position: absolute;
+    background: rgba(15, 15, 243, 0.76);
+}
+
+.fondosec3{
+    width: 1263px;
+    height: 350px;
+    inset: 0px;
+    top: 3525px;
+    position: absolute;
+    background: rgba(220, 247, 238, 0.5);
+}
+
+.centrar9{
+    height: 100px;
+    width: 160px;
+}
+
+.centrartext9{
+    font-weight: 600;
+    font-size: 13px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 75px;
+    left: 115px;
+}
+
+.centrar10{
+    height: 100px;
+    width: 260px;
+}
+
+.centrartext10{
+    font-weight: 600;
+    font-size: 13px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 175px;
+    left: 115px;
+}
+
+.triangulo5{
+    border-top: solid transparent 0px;
+    border-left: solid transparent 120px;
+    border-right: solid transparent 120px;
+    border-bottom: solid rgba(169, 202, 202, 0.253) 120px;
+}
+
+.centrartri5{
+    position: absolute;
+    top: 230px;
+    left: 905px;
+}
+
+.centrar11{
+    width: 80px;
+    height: 150px;
+    position: absolute;
+    top: 90px;
+    left: 675px;
+}
+
+.centrar12{
+    width: 95px;
+    height: 150px;
+    position: absolute;
+    top: 90px;
+    left: 865px;
+}
+
+.centrar13{
+    width: 100px;
+    height: 150px;
+    position: absolute;
+    top: 90px;
+    left: 1065px;
+}
+
+.centrartext11{
+    font-weight: 600;
+    font-size: 13px;
+    font-family: Century Gothic;
+    position: relative;
+    top: 60px;
+    left: 885px;
+}
+
+.centrar14{
+    height: 100px;
+    width: 260px;
+}
